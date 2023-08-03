@@ -1,1 +1,2 @@
 # RickkLatihanGit
+latihannic
